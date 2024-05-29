@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manuel Rao</h1>
 <h3 align="center">I make random stuff when i feel like it</h3>
 
-- 🔭 I’m currently working on [FEM](https://github.com/Defeeeee/FEM)
+- 🔭 I’m currently working on [Gray Drop](https://github.com/porfi2089/fligth-soft)
 
 - 🌱 I’m currently learning **openCV and TensorFlow**
-
-- 👯 I’m looking to collaborate on [Gray Drop](https://github.com/porfi2089/fligth-soft)
 
 - 💬 Ask me about **nanvegation and control**
 
