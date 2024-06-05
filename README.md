@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gray Drop](https://github.com/porfi2089/fligth-soft)
 
-- 🌱 I’m currently learning **how TF you make a rocket not fast**
+- 🌱 I’m currently learning **how TF you make a rocket not go fast**
 
 - 💬 Ask me about **nanvegation and control**
 
