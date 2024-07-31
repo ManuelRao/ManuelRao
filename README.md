@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Rao</h1>
 <h3 align="center">I make random stuff when i feel like it</h3>
 
-- 🔭 I’m currently working on [Gray Drop](https://github.com/porfi2089/fligth-soft)
+- 🔭 I’m currently working on [SketchVision](https://github.com/matiszpek/Proyecto-4to)
 
 - 🌱 I’m currently learning **how TF you make a rocket not go fast**
 
