@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manuel Rao</h1>
 <h3 align="center">I make random stuff when i feel like it</h3>
 
-- 🔭 I’m currently working on [SketchVision](https://github.com/matiszpek/Proyecto-4to)
+- 🔭 I’m currently working on [mx-5 telescope](https://github.com/porfi2089/mx-5_telescope)
 
-- 🌱 I’m currently learning **how TF you make a rocket not go fast**
+- 🌱 I’m currently learning **how to hit a coin from kilometer away with a laser**
 
 - 💬 Ask me about **nanvegation and control**
 
